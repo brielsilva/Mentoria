@@ -20,3 +20,19 @@ Tentem implementar lidagem de erros também, caso eu passe um id que não existe
     name: string
 }
 ```
+
+## Ao baixar:
+
+Ao fazer git clone use o comando:
+
+```
+npm install ou yarn
+```
+
+Assim você tera baixado as dependências
+
+## Para rodar:
+
+```
+yarn start ou npm run start
+```
